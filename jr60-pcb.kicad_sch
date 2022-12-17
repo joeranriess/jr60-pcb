@@ -2080,7 +2080,7 @@
     (uuid c4dccd53-56f1-405c-a7d8-0da9d2216803)
     (property "Reference" "SW1" (id 0) (at 119.38 45.72 0))
     (property "Value" "SW_Push" (id 1) (at 119.38 48.26 0))
-    (property "Footprint" "Button_Switch_SMD:SW_SPST_SKQG_WithStem" (id 2) (at 119.38 48.26 0)
+    (property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342" (id 2) (at 119.38 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 119.38 48.26 0)
@@ -2797,7 +2797,7 @@
       (reference "K40") (unit 1) (value "'\"") (footprint "MX_Alps_Hybrid:MX-1U")
     )
     (path "/a32c9d6a-15a8-4264-8189-26275dcc1052/4bf5ad76-f340-4001-9ab7-d9f04a485fe6"
-      (reference "K41") (unit 1) (value "\\|") (footprint "MX_Alps_Hybrid:MX-1U")
+      (reference "K41") (unit 1) (value "DEL") (footprint "MX_Alps_Hybrid:MX-1U")
     )
     (path "/a32c9d6a-15a8-4264-8189-26275dcc1052/cdcadf60-edb9-4b66-821d-83ca054d55f9"
       (reference "K42") (unit 1) (value "ENTER") (footprint "MX_Alps_Hybrid:MX-2.25U")
@@ -2851,7 +2851,7 @@
       (reference "K58") (unit 1) (value "LALT") (footprint "MX_Alps_Hybrid:MX-1.5U")
     )
     (path "/a32c9d6a-15a8-4264-8189-26275dcc1052/740f7fe6-f69f-4959-844a-f5f794797de6"
-      (reference "K59") (unit 1) (value "SPACE") (footprint "MX_Alps_Hybrid:MX-7U")
+      (reference "K59") (unit 1) (value "SPACE") (footprint "MX_Alps_Hybrid:MX-7U-ReversedStabilizers")
     )
     (path "/a32c9d6a-15a8-4264-8189-26275dcc1052/72ab3c4c-d869-4624-af2c-544b3736c941"
       (reference "K60") (unit 1) (value "RALT") (footprint "MX_Alps_Hybrid:MX-1.5U")
@@ -2881,7 +2881,7 @@
       (reference "R6") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/c4dccd53-56f1-405c-a7d8-0da9d2216803"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_SKQG_WithStem")
+      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_TL3342")
     )
     (path "/f8fc9a15-9e82-47fc-b9f4-2bd9c89510e9"
       (reference "U1") (unit 1) (value "ATmega32U4-A") (footprint "Package_QFP:TQFP-44_10x10mm_P0.8mm")
