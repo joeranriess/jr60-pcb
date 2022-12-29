@@ -2691,7 +2691,7 @@
       (reference "J1") (unit 1) (value "AVR-ISP-6") (footprint "random-keyboard-parts:Reset_Pretty-Mask")
     )
     (path "/a32c9d6a-15a8-4264-8189-26275dcc1052/acd53b94-623c-43fd-8dc1-2293fa782ed0"
-      (reference "K1") (unit 1) (value "ESC") (footprint "MX_Alps_Hybrid:MX-1U")
+      (reference "K1") (unit 1) (value "ESC") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/a32c9d6a-15a8-4264-8189-26275dcc1052/917338b5-ee95-47c0-8555-7931f20dad58"
       (reference "K2") (unit 1) (value "#1") (footprint "MX_Alps_Hybrid:MX-1U")

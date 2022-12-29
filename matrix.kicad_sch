@@ -2920,7 +2920,7 @@
     (property "Value" "ESC" (id 1) (at 46.99 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "MX_Alps_Hybrid:MX-1U" (id 2) (at 46.99 40.64 0)
+    (property "Footprint" "MX_Hotswap:MX-Hotswap-1U" (id 2) (at 46.99 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 46.99 40.64 0)
